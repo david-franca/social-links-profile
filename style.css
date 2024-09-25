@@ -55,6 +55,7 @@ body {
     margin-bottom: 1rem;
     width: 88px;
     height: 88px;
+    border: 2px solid var(--white);
   }
 
   ul {
